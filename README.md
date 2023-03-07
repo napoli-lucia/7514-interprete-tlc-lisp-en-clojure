@@ -9,12 +9,12 @@ Trabajo Práctico de la materia Lenguajes Formales [75.14 / 95.48]
 lein run
 ```
 
-#### Para correr las preubas unitarias:
+#### Para correr las pruebas unitarias:
 ```
 lein test
 ```
 
-#### Para correr el "Sistema de Producción":
+#### Para correr el programa de las jarras:
 ```
 (load 'jarras)
 
